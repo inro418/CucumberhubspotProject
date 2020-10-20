@@ -4,7 +4,7 @@ Cucumber Test
 
 
 Cucumber is open source automation tool for writing test. It has feature and Gherkin language: GIVEN, WHEN, THEN
-It can be use among the tester, developer, business and analyst and users to communicate. It actually explain what the software expected to do.
+It can be use among the tester, developer, business analyst and users to communicate. It actually explain what the software expected to do.
 
 Step: 
 
